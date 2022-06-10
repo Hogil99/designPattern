@@ -1,0 +1,4 @@
+build/
+cmake_practice/build/
+.idea/
+cmake-build-debug-wsl/
